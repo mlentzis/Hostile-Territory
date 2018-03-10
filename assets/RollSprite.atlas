@@ -1,0 +1,41 @@
+
+RollSprite.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rollsprite1
+  rotate: false
+  xy: 657, 2
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+rollsprite3
+  rotate: false
+  xy: 734, 14
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+rollsprite4
+  rotate: false
+  xy: 2, 10
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+rollsprite5
+  rotate: false
+  xy: 570, 2
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+rollsprite6
+  rotate: false
+  xy: 478, 11
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

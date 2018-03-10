@@ -1,0 +1,34 @@
+
+crouching.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Crouch1
+  rotate: false
+  xy: 361, 2
+  size: 336, 585
+  orig: 336, 585
+  offset: 0, 0
+  index: -1
+Crouch2
+  rotate: false
+  xy: 2, 4
+  size: 357, 583
+  orig: 357, 583
+  offset: 0, 0
+  index: -1
+Crouch3
+  rotate: false
+  xy: 699, 90
+  size: 364, 497
+  orig: 364, 497
+  offset: 0, 0
+  index: -1
+Crouch4
+  rotate: false
+  xy: 1065, 190
+  size: 391, 397
+  orig: 391, 397
+  offset: 0, 0
+  index: -1

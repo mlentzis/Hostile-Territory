@@ -1,0 +1,138 @@
+runnerSprite.png
+size: 628, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sprite1
+  rotate: false
+  xy: 403, 1
+  size: 37, 125
+  orig: 58, 130
+  offset: 11, 3
+  index: -1
+sprite2
+  rotate: false
+  xy: 442, 1
+  size: 51, 124
+  orig: 77, 126
+  offset: 11, 2
+  index: -1
+sprite3
+  rotate: false
+  xy: 281, 1
+  size: 67, 127
+  orig: 92, 128
+  offset: 12, 1
+  index: -1
+sprite4
+  rotate: false
+  xy: 204, 136
+  size: 98, 119
+  orig: 114, 127
+  offset: 8, 4
+  index: -1
+sprite5
+  rotate: false
+  xy: 304, 130
+  size: 71, 125
+  orig: 95, 128
+  offset: 6, 2
+  index: -1
+sprite6
+  rotate: false
+  xy: 350, 1
+  size: 51, 126
+  orig: 70, 135
+  offset: 7, 7
+  index: -1
+sprite7
+  rotate: false
+  xy: 211, 1
+  size: 68, 129
+  orig: 87, 131
+  offset: 5, 2
+  index: -1
+sprite8
+  rotate: false
+  xy: 450, 127
+  size: 97, 119
+  orig: 115, 132
+  offset: 10, 8
+  index: -1
+sprite9
+  rotate: false
+  xy: 377, 129
+  size: 71, 125
+  orig: 90, 134
+  offset: 9, 8
+  index: -1
+spritejump1
+  rotate: false
+  xy: 125, 137
+  size: 77, 112
+  orig: 83, 119
+  offset: 5, 2
+  index: -1
+spritejump2
+  rotate: false
+  xy: 69, 138
+  size: 54, 113
+  orig: 70, 123
+  offset: 10, 7
+  index: -1
+spritejump3
+  rotate: false
+  xy: 1, 1
+  size: 45, 148
+  orig: 61, 154
+  offset: 6, 4
+  index: -1
+spritejump4
+  rotate: false
+  xy: 48, 1
+  size: 46, 135
+  orig: 64, 150
+  offset: 14, 9
+  index: -1
+spritejump5
+  rotate: false
+  xy: 96, 1
+  size: 44, 134
+  orig: 56, 140
+  offset: 4, 4
+  index: -1
+spritejump6
+  rotate: false
+  xy: 142, 1
+  size: 67, 133
+  orig: 69, 142
+  offset: 1, 5
+  index: -1
+spriteslide1
+  rotate: false
+  xy: 562, 1
+  size: 65, 90
+  orig: 73, 106
+  offset: 3, 2
+  index: -1
+spriteslide2
+  rotate: true
+  xy: 1, 151
+  size: 102, 66
+  orig: 109, 71
+  offset: 0, 0
+  index: -1
+spriteslide3
+  rotate: true
+  xy: 549, 105
+  size: 97, 68
+  orig: 111, 73
+  offset: 7, 0
+  index: -1
+spriteslide4
+  rotate: true
+  xy: 495, 1
+  size: 102, 65
+  orig: 113, 72
+  offset: 6, 0
+  index: -1

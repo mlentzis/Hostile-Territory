@@ -1,0 +1,48 @@
+
+JumpSprite.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+djumpprite1
+  rotate: false
+  xy: 2, 2
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+jumpprite1
+  rotate: false
+  xy: 279, 129
+  size: 67, 125
+  orig: 67, 125
+  offset: 0, 0
+  index: -1
+jumpprite2
+  rotate: false
+  xy: 2, 105
+  size: 76, 149
+  orig: 76, 149
+  offset: 0, 0
+  index: -1
+jumpprite3
+  rotate: false
+  xy: 156, 116
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+jumpprite4
+  rotate: false
+  xy: 220, 113
+  size: 57, 141
+  orig: 57, 141
+  offset: 0, 0
+  index: -1
+jumpprite5
+  rotate: false
+  xy: 80, 112
+  size: 74, 142
+  orig: 74, 142
+  offset: 0, 0
+  index: -1

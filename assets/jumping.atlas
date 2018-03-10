@@ -1,0 +1,62 @@
+
+jumping.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 503
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 319, 503
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 319, 2
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 636, 503
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 636, 2
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 953, 503
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 953, 2
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1
